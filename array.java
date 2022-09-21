@@ -1,3 +1,4 @@
+    // creating a array
 
 // import java.util.*;
 // public class array{
@@ -12,6 +13,7 @@
 //     }
 //   }
 // }
+
 
 //  linear search 
 // public class array {
@@ -40,6 +42,7 @@
 //     }
 // }
 
+
 // public class array {
 //     public static void main(String args[]) {
 //         Scanner sc = new Scanner(System.in);
@@ -58,7 +61,7 @@
 
 
 
-
+               
 
 // public class array{
 //     public static void main(String aString[]){
